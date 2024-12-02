@@ -21,6 +21,12 @@ A GNOME Shell extension for listening to internet radio streams.
 
 Prerequisites: GStreamer plugins are installed.
 
+#### Ubuntu
+
+```sh
+sudo apt install gettext gir1.2-gst-plugins-base-1.0
+```
+
 * Install from [GNOME Shell extension website]
 * Build and install from source: Run `sh build.sh -i` in folder of build.sh file
 
